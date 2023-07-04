@@ -7,6 +7,7 @@ public class Intro{
 		System.out.print("Введите свое имя:");
 		System.out.println(console.nextLine());
 		System.out.println("Добро пожаловать в мою программу!");
+		String s="3 commit on testing";
 	}
 	
 }
