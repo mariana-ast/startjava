@@ -30,5 +30,17 @@ public class Intro{
 		for(int i:c){
 			System.out.println(i);
 		}
+		int[] d={0,4,9,2,3,1,5,6};
+		System.out.println("Selection1");
+		Selection.sorting1(d);
+		for(int i:d){
+			System.out.println(i);
+		}
+		int[] e={5,3,8,0,9,7,2,1};
+		System.out.println("Selection2");
+		Selection.sorting1(e);
+		for(int i:e){
+			System.out.println(i);
+		}
 	}
 }
